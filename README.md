@@ -16,4 +16,5 @@ EFS: File Storage per salvare dati persistenti di Wordpress
 ECS: Servizio cluster in modalità Fargate per il deploy dell'applicazione  
 CloudWatch: Per il monitoring  
   
-Nella repository è presente il diagramma dell'infrastruttura
+Nella repository è presente il diagramma dell'infrastruttura  
+(https://github.com/SalvatoreCaiazza/AWS-Wordpress/blob/main/Infrastruttura.png?raw=true)
