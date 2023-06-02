@@ -17,4 +17,4 @@ ECS: Servizio cluster in modalità Fargate per il deploy dell'applicazione
 CloudWatch: Per il monitoring  
   
 Nella repository è presente il diagramma dell'infrastruttura  
-(https://github.com/SalvatoreCaiazza/AWS-Wordpress/blob/main/Infrastruttura.png?raw=true)
+![alt text](https://github.com/SalvatoreCaiazza/AWS-Wordpress/blob/main/Infrastruttura.png?raw=true)
